@@ -1,0 +1,19 @@
+{
+  "name": "@jeff/hello-github-package",
+  "version": "1.0.0",
+  "description": "test for github package",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeff-tbd/hello-github-package.git"
+  },
+  "author": "jeff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeff-tbd/hello-github-package/issues"
+  },
+  "homepage": "https://github.com/jeff-tbd/hello-github-package#readme"
+}
