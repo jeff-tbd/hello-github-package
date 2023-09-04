@@ -1,6 +1,6 @@
 {
   "name": "@jeff-tbd/hello-github-package",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "test for github package",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/jeff-tbd/hello-github-package#readme",
   "publishConfig": {
-    "@jeff-tbd:registry": "https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com"
   }
 }
