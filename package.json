@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jeff-tbd/hello-github-package/issues"
   },
-  "homepage": "https://github.com/jeff-tbd/hello-github-package#readme"
+  "homepage": "https://github.com/jeff-tbd/hello-github-package#readme",
+  "publishConfig": {
+    "@jeff-tbd:registry": "https://npm.pkg.github.com"
+  }
 }
