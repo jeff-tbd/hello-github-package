@@ -1,5 +1,5 @@
 {
-  "name": "@jeff/hello-github-package",
+  "name": "@jeff-tbd/hello-github-package",
   "version": "1.0.0",
   "description": "test for github package",
   "main": "index.js",
